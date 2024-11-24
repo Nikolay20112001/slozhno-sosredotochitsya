@@ -18,5 +18,5 @@
   --link-focus-color: #F1B2CE;
   --decoration-element-color: #FF0070;
   --main-padding: 10px;
-  --rec-display: block;
+  --rec-display: flex;
 }

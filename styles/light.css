@@ -22,7 +22,7 @@
 }
 
 @media (prefers-color-scheme: light) {
-  .page.theme_light {
+  :root {
     --main-text-color: #353430;
     --subtitle-text-color: #353430;
     --accent-color: #FF8DCB;
